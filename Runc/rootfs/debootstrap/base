@@ -1,0 +1,1 @@
+adduser apt-utils ca-certificates cpio cron cron-daemon-common debconf-i18n debian-archive-keyring dmidecode fdisk gpgv ifupdown init iproute2 iputils-ping isc-dhcp-client isc-dhcp-common kmod less logrotate nano netbase nftables procps readline-common sensible-utils systemd systemd-sysv tasksel-data udev vim-common vim-tiny whiptail 

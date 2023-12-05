@@ -1,0 +1,283 @@
+2023-12-04 10:04:51 URL:https://deb.debian.org/debian/dists/stable/InRelease [151037/151037] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs/var/lib/apt/lists/partial/deb.debian.org_debian_dists_stable_InRelease" [1]
+2023-12-04 10:04:57 URL:https://deb.debian.org/debian/dists/stable/main/binary-amd64/by-hash/SHA256/4990c49517def41941c0395a8d007bf50767d3caeff30858a100de542bde295b [8780256/8780256] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs/var/lib/apt/lists/partial/deb.debian.org_debian_dists_stable_main_binary-amd64_Packages.xz" [1]
+grep: /home/seiji/Área: No such file or directory
+grep: de: No such file or directory
+grep: Trabalho/Ativ02/rootfs/rootfs/var/lib/apt/lists/deb.debian.org_debian_dists_stable_main_binary-amd64_Packages: No such file or directory
+grep: /home/seiji/Área: No such file or directory
+grep: de: No such file or directory
+grep: Trabalho/Ativ02/rootfs/rootfs/var/lib/apt/lists/deb.debian.org_debian_dists_stable_main_binary-amd64_Packages: No such file or directory
+2023-12-04 10:05:04 URL:https://deb.debian.org/debian/pool/main/a/adduser/adduser_3.134_all.deb [183272/183272] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/adduser_3.134_all.deb" [1]
+2023-12-04 10:05:07 URL:https://deb.debian.org/debian/pool/main/a/apt/apt_2.6.1_amd64.deb [1372852/1372852] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/apt_2.6.1_amd64.deb" [1]
+2023-12-04 10:05:08 URL:https://deb.debian.org/debian/pool/main/a/apt/apt-utils_2.6.1_amd64.deb [309288/309288] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/apt-utils_2.6.1_amd64.deb" [1]
+2023-12-04 10:05:09 URL:https://deb.debian.org/debian/pool/main/b/base-files/base-files_12.4+deb12u2_amd64.deb [70680/70680] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/base-files_12.4+deb12u2_amd64.deb" [1]
+2023-12-04 10:05:10 URL:https://deb.debian.org/debian/pool/main/b/base-passwd/base-passwd_3.6.1_amd64.deb [59972/59972] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/base-passwd_3.6.1_amd64.deb" [1]
+2023-12-04 10:05:12 URL:https://deb.debian.org/debian/pool/main/b/bash/bash_5.2.15-2+b2_amd64.deb [1490660/1490660] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/bash_5.2.15-2+b2_amd64.deb" [1]
+2023-12-04 10:05:13 URL:https://deb.debian.org/debian/pool/main/c/ca-certificates/ca-certificates_20230311_all.deb [153456/153456] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/ca-certificates_20230311_all.deb" [1]
+2023-12-04 10:05:16 URL:https://deb.debian.org/debian/pool/main/c/coreutils/coreutils_9.1-1_amd64.deb [2896560/2896560] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/coreutils_9.1-1_amd64.deb" [1]
+2023-12-04 10:05:17 URL:https://deb.debian.org/debian/pool/main/c/cpio/cpio_2.13+dfsg-7.1_amd64.deb [245036/245036] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/cpio_2.13+dfsg-7.1_amd64.deb" [1]
+2023-12-04 10:05:18 URL:https://deb.debian.org/debian/pool/main/c/cron/cron_3.0pl1-162_amd64.deb [73084/73084] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/cron_3.0pl1-162_amd64.deb" [1]
+2023-12-04 10:05:19 URL:https://deb.debian.org/debian/pool/main/c/cron/cron-daemon-common_3.0pl1-162_all.deb [12660/12660] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/cron-daemon-common_3.0pl1-162_all.deb" [1]
+2023-12-04 10:05:19 URL:https://deb.debian.org/debian/pool/main/d/dash/dash_0.5.12-2_amd64.deb [91848/91848] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/dash_0.5.12-2_amd64.deb" [1]
+2023-12-04 10:05:21 URL:https://deb.debian.org/debian/pool/main/d/debconf/debconf_1.5.82_all.deb [121212/121212] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/debconf_1.5.82_all.deb" [1]
+2023-12-04 10:05:22 URL:https://deb.debian.org/debian/pool/main/d/debconf/debconf-i18n_1.5.82_all.deb [208040/208040] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/debconf-i18n_1.5.82_all.deb" [1]
+2023-12-04 10:05:22 URL:https://deb.debian.org/debian/pool/main/d/debian-archive-keyring/debian-archive-keyring_2023.3+deb12u1_all.deb [160776/160776] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/debian-archive-keyring_2023.3+deb12u1_all.deb" [1]
+2023-12-04 10:05:22 URL:https://deb.debian.org/debian/pool/main/d/debianutils/debianutils_5.7-0.5~deb12u1_amd64.deb [102588/102588] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/debianutils_5.7-0.5~deb12u1_amd64.deb" [1]
+2023-12-04 10:05:23 URL:https://deb.debian.org/debian/pool/main/d/diffutils/diffutils_3.8-4_amd64.deb [351740/351740] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/diffutils_1%3a3.8-4_amd64.deb" [1]
+2023-12-04 10:05:23 URL:https://deb.debian.org/debian/pool/main/d/dmidecode/dmidecode_3.4-1_amd64.deb [68764/68764] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/dmidecode_3.4-1_amd64.deb" [1]
+2023-12-04 10:05:24 URL:https://deb.debian.org/debian/pool/main/d/dpkg/dpkg_1.21.22_amd64.deb [1567356/1567356] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/dpkg_1.21.22_amd64.deb" [1]
+2023-12-04 10:05:24 URL:https://deb.debian.org/debian/pool/main/e/e2fsprogs/e2fsprogs_1.47.0-2_amd64.deb [571372/571372] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/e2fsprogs_1.47.0-2_amd64.deb" [1]
+2023-12-04 10:05:25 URL:https://deb.debian.org/debian/pool/main/f/findutils/findutils_4.9.0-4_amd64.deb [635500/635500] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/findutils_4.9.0-4_amd64.deb" [1]
+2023-12-04 10:05:26 URL:https://deb.debian.org/debian/pool/main/g/glibc/libc-bin_2.36-9+deb12u2_amd64.deb [605800/605800] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/libc-bin_2.36-9+deb12u2_amd64.deb" [1]
+2023-12-04 10:05:26 URL:https://deb.debian.org/debian/pool/main/g/gnupg2/gpgv_2.2.40-1.1_amd64.deb [648396/648396] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/gpgv_2.2.40-1.1_amd64.deb" [1]
+2023-12-04 10:05:27 URL:https://deb.debian.org/debian/pool/main/g/grep/grep_3.8-5_amd64.deb [421444/421444] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/grep_3.8-5_amd64.deb" [1]
+2023-12-04 10:05:27 URL:https://deb.debian.org/debian/pool/main/g/gzip/gzip_1.12-1_amd64.deb [140364/140364] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/gzip_1.12-1_amd64.deb" [1]
+2023-12-04 10:05:27 URL:https://deb.debian.org/debian/pool/main/h/hostname/hostname_3.23+nmu1_amd64.deb [10500/10500] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/hostname_3.23+nmu1_amd64.deb" [1]
+2023-12-04 10:05:28 URL:https://deb.debian.org/debian/pool/main/i/ifupdown/ifupdown_0.8.41_amd64.deb [62104/62104] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/ifupdown_0.8.41_amd64.deb" [1]
+2023-12-04 10:05:28 URL:https://deb.debian.org/debian/pool/main/i/init-system-helpers/init_1.65.2_amd64.deb [16788/16788] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/init_1.65.2_amd64.deb" [1]
+2023-12-04 10:05:28 URL:https://deb.debian.org/debian/pool/main/i/init-system-helpers/init-system-helpers_1.65.2_all.deb [49800/49800] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/init-system-helpers_1.65.2_all.deb" [1]
+2023-12-04 10:05:29 URL:https://deb.debian.org/debian/pool/main/i/iproute2/iproute2_6.1.0-3_amd64.deb [1045828/1045828] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/iproute2_6.1.0-3_amd64.deb" [1]
+2023-12-04 10:05:29 URL:https://deb.debian.org/debian/pool/main/i/iputils/iputils-ping_20221126-1_amd64.deb [47068/47068] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/iputils-ping_3%3a20221126-1_amd64.deb" [1]
+2023-12-04 10:05:30 URL:https://deb.debian.org/debian/pool/main/i/isc-dhcp/isc-dhcp-client_4.4.3-P1-2_amd64.deb [1095928/1095928] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/isc-dhcp-client_4.4.3-P1-2_amd64.deb" [1]
+2023-12-04 10:05:30 URL:https://deb.debian.org/debian/pool/main/i/isc-dhcp/isc-dhcp-common_4.4.3-P1-2_amd64.deb [117272/117272] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/isc-dhcp-common_4.4.3-P1-2_amd64.deb" [1]
+2023-12-04 10:05:30 URL:https://deb.debian.org/debian/pool/main/k/kmod/kmod_30+20221128-1_amd64.deb [95180/95180] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/kmod_30+20221128-1_amd64.deb" [1]
+2023-12-04 10:05:30 URL:https://deb.debian.org/debian/pool/main/l/less/less_590-2_amd64.deb [131348/131348] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/less_590-2_amd64.deb" [1]
+2023-12-04 10:05:31 URL:https://deb.debian.org/debian/pool/main/l/logrotate/logrotate_3.21.0-1_amd64.deb [62108/62108] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/logrotate_3.21.0-1_amd64.deb" [1]
+2023-12-04 10:05:31 URL:https://deb.debian.org/debian/pool/main/m/mawk/mawk_1.3.4.20200120-3.1_amd64.deb [119144/119144] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/mawk_1.3.4.20200120-3.1_amd64.deb" [1]
+2023-12-04 10:05:32 URL:https://deb.debian.org/debian/pool/main/n/nano/nano_7.2-1_amd64.deb [688568/688568] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/nano_7.2-1_amd64.deb" [1]
+2023-12-04 10:05:32 URL:https://deb.debian.org/debian/pool/main/n/ncurses/ncurses-base_6.4-4_all.deb [261308/261308] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/ncurses-base_6.4-4_all.deb" [1]
+2023-12-04 10:05:32 URL:https://deb.debian.org/debian/pool/main/n/ncurses/ncurses-bin_6.4-4_amd64.deb [421400/421400] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/ncurses-bin_6.4-4_amd64.deb" [1]
+2023-12-04 10:05:33 URL:https://deb.debian.org/debian/pool/main/n/netbase/netbase_6.4_all.deb [12800/12800] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/netbase_6.4_all.deb" [1]
+2023-12-04 10:05:33 URL:https://deb.debian.org/debian/pool/main/n/newt/whiptail_0.52.23-1+b1_amd64.deb [24228/24228] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/whiptail_0.52.23-1+b1_amd64.deb" [1]
+2023-12-04 10:05:33 URL:https://deb.debian.org/debian/pool/main/n/nftables/nftables_1.0.6-2+deb12u2_amd64.deb [70292/70292] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/nftables_1.0.6-2+deb12u2_amd64.deb" [1]
+2023-12-04 10:05:33 URL:https://deb.debian.org/debian/pool/main/p/pam/libpam-modules_1.5.2-6+deb12u1_amd64.deb [290976/290976] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/libpam-modules_1.5.2-6+deb12u1_amd64.deb" [1]
+2023-12-04 10:05:33 URL:https://deb.debian.org/debian/pool/main/p/pam/libpam-modules-bin_1.5.2-6+deb12u1_amd64.deb [75604/75604] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/libpam-modules-bin_1.5.2-6+deb12u1_amd64.deb" [1]
+2023-12-04 10:05:34 URL:https://deb.debian.org/debian/pool/main/p/pam/libpam-runtime_1.5.2-6+deb12u1_all.deb [161064/161064] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/libpam-runtime_1.5.2-6+deb12u1_all.deb" [1]
+2023-12-04 10:05:34 URL:https://deb.debian.org/debian/pool/main/p/perl/perl-base_5.36.0-7_amd64.deb [1608400/1608400] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/perl-base_5.36.0-7_amd64.deb" [1]
+2023-12-04 10:05:35 URL:https://deb.debian.org/debian/pool/main/p/procps/procps_4.0.2-3_amd64.deb [708712/708712] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/procps_2%3a4.0.2-3_amd64.deb" [1]
+2023-12-04 10:05:35 URL:https://deb.debian.org/debian/pool/main/r/readline/readline-common_8.2-1.3_all.deb [68988/68988] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/readline-common_8.2-1.3_all.deb" [1]
+2023-12-04 10:05:35 URL:https://deb.debian.org/debian/pool/main/s/sed/sed_4.9-1_amd64.deb [328900/328900] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/sed_4.9-1_amd64.deb" [1]
+2023-12-04 10:05:36 URL:https://deb.debian.org/debian/pool/main/s/sensible-utils/sensible-utils_0.0.17+nmu1_all.deb [19020/19020] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/sensible-utils_0.0.17+nmu1_all.deb" [1]
+2023-12-04 10:05:36 URL:https://deb.debian.org/debian/pool/main/s/shadow/login_4.13+dfsg1-1+b1_amd64.deb [616264/616264] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/login_1%3a4.13+dfsg1-1+b1_amd64.deb" [1]
+2023-12-04 10:05:37 URL:https://deb.debian.org/debian/pool/main/s/shadow/passwd_4.13+dfsg1-1+b1_amd64.deb [972452/972452] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/passwd_1%3a4.13+dfsg1-1+b1_amd64.deb" [1]
+2023-12-04 10:05:38 URL:https://deb.debian.org/debian/pool/main/s/systemd/systemd_252.17-1~deb12u1_amd64.deb [3028528/3028528] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/systemd_252.17-1~deb12u1_amd64.deb" [1]
+2023-12-04 10:05:38 URL:https://deb.debian.org/debian/pool/main/s/systemd/systemd-sysv_252.17-1~deb12u1_amd64.deb [41752/41752] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/systemd-sysv_252.17-1~deb12u1_amd64.deb" [1]
+2023-12-04 10:05:39 URL:https://deb.debian.org/debian/pool/main/s/systemd/udev_252.17-1~deb12u1_amd64.deb [1642552/1642552] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/udev_252.17-1~deb12u1_amd64.deb" [1]
+2023-12-04 10:05:39 URL:https://deb.debian.org/debian/pool/main/s/sysvinit/sysvinit-utils_3.06-4_amd64.deb [30996/30996] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/sysvinit-utils_3.06-4_amd64.deb" [1]
+2023-12-04 10:05:40 URL:https://deb.debian.org/debian/pool/main/t/tar/tar_1.34+dfsg-1.2_amd64.deb [835980/835980] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/tar_1.34+dfsg-1.2_amd64.deb" [1]
+2023-12-04 10:05:40 URL:https://deb.debian.org/debian/pool/main/t/tasksel/tasksel-data_3.73_all.deb [17988/17988] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/tasksel-data_3.73_all.deb" [1]
+2023-12-04 10:05:40 URL:https://deb.debian.org/debian/pool/main/t/tzdata/tzdata_2023c-5_all.deb [295836/295836] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/tzdata_2023c-5_all.deb" [1]
+2023-12-04 10:05:40 URL:https://deb.debian.org/debian/pool/main/u/util-linux/bsdutils_2.38.1-5+b1_amd64.deb [94364/94364] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/bsdutils_1%3a2.38.1-5+b1_amd64.deb" [1]
+2023-12-04 10:05:40 URL:https://deb.debian.org/debian/pool/main/u/util-linux/fdisk_2.38.1-5+b1_amd64.deb [141628/141628] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/fdisk_2.38.1-5+b1_amd64.deb" [1]
+2023-12-04 10:05:41 URL:https://deb.debian.org/debian/pool/main/u/util-linux/mount_2.38.1-5+b1_amd64.deb [134100/134100] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/mount_2.38.1-5+b1_amd64.deb" [1]
+2023-12-04 10:05:41 URL:https://deb.debian.org/debian/pool/main/u/util-linux/util-linux_2.38.1-5+b1_amd64.deb [1176996/1176996] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/util-linux_2.38.1-5+b1_amd64.deb" [1]
+2023-12-04 10:05:41 URL:https://deb.debian.org/debian/pool/main/v/vim/vim-common_9.0.1378-2_all.deb [124420/124420] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/vim-common_2%3a9.0.1378-2_all.deb" [1]
+2023-12-04 10:05:42 URL:https://deb.debian.org/debian/pool/main/v/vim/vim-tiny_9.0.1378-2_amd64.deb [719796/719796] -> "/home/seiji/Área de Trabalho/Ativ02/rootfs/rootfs//var/cache/apt/archives/partial/vim-tiny_2%3a9.0.1378-2_amd64.deb" [1]
+chroot: failed to run command '/bin/true': No such file or directory
+grep: /home/seiji/Área: No such file or directory
+grep: de: No such file or directory
+grep: Trabalho/Ativ02/Runc/rootfs/var/lib/apt/lists/deb.debian.org_debian_dists_stable_main_binary-amd64_Packages: No such file or directory
+grep: /home/seiji/Área: No such file or directory
+grep: de: No such file or directory
+grep: Trabalho/Ativ02/Runc/rootfs/var/lib/apt/lists/deb.debian.org_debian_dists_stable_main_binary-amd64_Packages: No such file or directory
+tar: ./etc/apt/apt.conf.d/01autoremove: Cannot open: File exists
+tar: ./etc/cron.daily/apt-compat: Cannot open: File exists
+tar: ./etc/logrotate.d/apt: Cannot open: File exists
+tar: ./lib/systemd/system/apt-daily-upgrade.service: Cannot open: File exists
+tar: ./lib/systemd/system/apt-daily-upgrade.timer: Cannot open: File exists
+tar: ./lib/systemd/system/apt-daily.service: Cannot open: File exists
+tar: ./lib/systemd/system/apt-daily.timer: Cannot open: File exists
+tar: ./usr/bin/apt: Cannot open: File exists
+tar: ./usr/bin/apt-cache: Cannot open: File exists
+tar: ./usr/bin/apt-cdrom: Cannot open: File exists
+tar: ./usr/bin/apt-config: Cannot open: File exists
+tar: ./usr/bin/apt-get: Cannot open: File exists
+tar: ./usr/bin/apt-key: Cannot open: File exists
+tar: ./usr/bin/apt-mark: Cannot open: File exists
+tar: ./usr/lib/apt/apt-helper: Cannot open: File exists
+tar: ./usr/lib/apt/apt.systemd.daily: Cannot open: File exists
+tar: ./usr/lib/apt/methods/cdrom: Cannot open: File exists
+tar: ./usr/lib/apt/methods/copy: Cannot open: File exists
+tar: ./usr/lib/apt/methods/file: Cannot open: File exists
+tar: ./usr/lib/apt/methods/ftp: Cannot open: File exists
+tar: ./usr/lib/apt/methods/gpgv: Cannot open: File exists
+tar: ./usr/lib/apt/methods/http: Cannot open: File exists
+tar: ./usr/lib/apt/methods/mirror: Cannot open: File exists
+tar: ./usr/lib/apt/methods/rred: Cannot open: File exists
+tar: ./usr/lib/apt/methods/rsh: Cannot open: File exists
+tar: ./usr/lib/apt/methods/store: Cannot open: File exists
+tar: ./usr/lib/apt/solvers/dump: Cannot open: File exists
+tar: ./usr/lib/dpkg/methods/apt/desc.apt: Cannot open: File exists
+tar: ./usr/lib/dpkg/methods/apt/install: Cannot open: File exists
+tar: ./usr/lib/dpkg/methods/apt/names: Cannot open: File exists
+tar: ./usr/lib/dpkg/methods/apt/setup: Cannot open: File exists
+tar: ./usr/lib/dpkg/methods/apt/update: Cannot open: File exists
+tar: ./usr/lib/x86_64-linux-gnu/libapt-private.so.0.0.0: Cannot open: File exists
+tar: ./usr/share/bash-completion/completions/apt: Cannot open: File exists
+tar: ./usr/share/bug/apt/script: Cannot open: File exists
+tar: ./usr/share/doc/apt/NEWS.Debian.gz: Cannot open: File exists
+tar: ./usr/share/doc/apt/README.md.gz: Cannot open: File exists
+tar: ./usr/share/doc/apt/changelog.gz: Cannot open: File exists
+tar: ./usr/share/doc/apt/copyright: Cannot open: File exists
+tar: ./usr/share/doc/apt/examples/apt.conf: Cannot open: File exists
+tar: ./usr/share/doc/apt/examples/configure-index: Cannot open: File exists
+tar: ./usr/share/doc/apt/examples/preferences: Cannot open: File exists
+tar: ./usr/share/doc/apt/examples/sources.list: Cannot open: File exists
+tar: ./usr/share/lintian/overrides/apt: Cannot open: File exists
+tar: ./usr/share/locale/ar/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/ast/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/bg/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/bs/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/ca/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/cs/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/cy/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/da/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/de/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/dz/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/el/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/es/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/eu/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/fi/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/fr/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/gl/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/hu/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/it/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/ja/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/km/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/ko/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/ku/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/lt/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/mr/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/nb/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/ne/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/nl/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/nn/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/pl/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/pt/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/pt_BR/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/ro/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/ru/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/sk/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/sl/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/sv/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/th/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/tl/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/tr/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/uk/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/vi/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/zh_CN/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/locale/zh_TW/LC_MESSAGES/apt.mo: Cannot open: File exists
+tar: ./usr/share/man/de/man1/apt-transport-http.1.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man1/apt-transport-https.1.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man1/apt-transport-mirror.1.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man5/apt.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man5/apt_auth.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man5/apt_preferences.5.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man5/sources.list.5.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man7/apt-patterns.7.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man8/apt-cache.8.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man8/apt-cdrom.8.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man8/apt-config.8.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man8/apt-get.8.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man8/apt-mark.8.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man8/apt-secure.8.gz: Cannot open: File exists
+tar: ./usr/share/man/de/man8/apt.8.gz: Cannot open: File exists
+tar: ./usr/share/man/es/man5/apt_preferences.5.gz: Cannot open: File exists
+tar: ./usr/share/man/es/man8/apt-cache.8.gz: Cannot open: File exists
+tar: ./usr/share/man/es/man8/apt-cdrom.8.gz: Cannot open: File exists
+tar: ./usr/share/man/es/man8/apt-config.8.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man1/apt-transport-http.1.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man1/apt-transport-https.1.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man1/apt-transport-mirror.1.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man5/apt.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man5/apt_auth.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man5/apt_preferences.5.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man5/sources.list.5.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man8/apt-cache.8.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man8/apt-cdrom.8.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man8/apt-config.8.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man8/apt-get.8.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man8/apt-mark.8.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man8/apt-secure.8.gz: Cannot open: File exists
+tar: ./usr/share/man/fr/man8/apt.8.gz: Cannot open: File exists
+tar: ./usr/share/man/it/man5/apt.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/it/man5/apt_preferences.5.gz: Cannot open: File exists
+tar: ./usr/share/man/it/man5/sources.list.5.gz: Cannot open: File exists
+tar: ./usr/share/man/it/man8/apt-cache.8.gz: Cannot open: File exists
+tar: ./usr/share/man/it/man8/apt-cdrom.8.gz: Cannot open: File exists
+tar: ./usr/share/man/it/man8/apt-config.8.gz: Cannot open: File exists
+tar: ./usr/share/man/it/man8/apt-get.8.gz: Cannot open: File exists
+tar: ./usr/share/man/it/man8/apt-mark.8.gz: Cannot open: File exists
+tar: ./usr/share/man/it/man8/apt-secure.8.gz: Cannot open: File exists
+tar: ./usr/share/man/it/man8/apt.8.gz: Cannot open: File exists
+tar: ./usr/share/man/ja/man5/apt.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/ja/man5/apt_preferences.5.gz: Cannot open: File exists
+tar: ./usr/share/man/ja/man5/sources.list.5.gz: Cannot open: File exists
+tar: ./usr/share/man/ja/man8/apt-cache.8.gz: Cannot open: File exists
+tar: ./usr/share/man/ja/man8/apt-cdrom.8.gz: Cannot open: File exists
+tar: ./usr/share/man/ja/man8/apt-config.8.gz: Cannot open: File exists
+tar: ./usr/share/man/ja/man8/apt-get.8.gz: Cannot open: File exists
+tar: ./usr/share/man/ja/man8/apt-mark.8.gz: Cannot open: File exists
+tar: ./usr/share/man/ja/man8/apt-secure.8.gz: Cannot open: File exists
+tar: ./usr/share/man/ja/man8/apt.8.gz: Cannot open: File exists
+tar: ./usr/share/man/man1/apt-transport-http.1.gz: Cannot open: File exists
+tar: ./usr/share/man/man1/apt-transport-https.1.gz: Cannot open: File exists
+tar: ./usr/share/man/man1/apt-transport-mirror.1.gz: Cannot open: File exists
+tar: ./usr/share/man/man5/apt.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/man5/apt_auth.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/man5/apt_preferences.5.gz: Cannot open: File exists
+tar: ./usr/share/man/man5/sources.list.5.gz: Cannot open: File exists
+tar: ./usr/share/man/man7/apt-patterns.7.gz: Cannot open: File exists
+tar: ./usr/share/man/man8/apt-cache.8.gz: Cannot open: File exists
+tar: ./usr/share/man/man8/apt-cdrom.8.gz: Cannot open: File exists
+tar: ./usr/share/man/man8/apt-config.8.gz: Cannot open: File exists
+tar: ./usr/share/man/man8/apt-get.8.gz: Cannot open: File exists
+tar: ./usr/share/man/man8/apt-key.8.gz: Cannot open: File exists
+tar: ./usr/share/man/man8/apt-mark.8.gz: Cannot open: File exists
+tar: ./usr/share/man/man8/apt-secure.8.gz: Cannot open: File exists
+tar: ./usr/share/man/man8/apt.8.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man1/apt-transport-http.1.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man1/apt-transport-https.1.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man1/apt-transport-mirror.1.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man5/apt.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man5/apt_auth.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man5/apt_preferences.5.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man5/sources.list.5.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man7/apt-patterns.7.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man8/apt-cache.8.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man8/apt-cdrom.8.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man8/apt-config.8.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man8/apt-get.8.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man8/apt-key.8.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man8/apt-mark.8.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man8/apt-secure.8.gz: Cannot open: File exists
+tar: ./usr/share/man/nl/man8/apt.8.gz: Cannot open: File exists
+tar: ./usr/share/man/pl/man5/apt_preferences.5.gz: Cannot open: File exists
+tar: ./usr/share/man/pl/man8/apt-cache.8.gz: Cannot open: File exists
+tar: ./usr/share/man/pl/man8/apt-cdrom.8.gz: Cannot open: File exists
+tar: ./usr/share/man/pl/man8/apt-config.8.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man1/apt-transport-http.1.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man1/apt-transport-https.1.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man1/apt-transport-mirror.1.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man5/apt.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man5/apt_auth.conf.5.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man5/apt_preferences.5.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man5/sources.list.5.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man7/apt-patterns.7.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man8/apt-cache.8.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man8/apt-cdrom.8.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man8/apt-config.8.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man8/apt-get.8.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man8/apt-key.8.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man8/apt-mark.8.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man8/apt-secure.8.gz: Cannot open: File exists
+tar: ./usr/share/man/pt/man8/apt.8.gz: Cannot open: File exists
+tar: ./usr/lib/apt/methods/https: Cannot create symlink to 'http': File exists
+tar: ./usr/lib/apt/methods/mirror+copy: Cannot create symlink to 'mirror': File exists
+tar: ./usr/lib/apt/methods/mirror+file: Cannot create symlink to 'mirror': File exists
+tar: ./usr/lib/apt/methods/mirror+ftp: Cannot create symlink to 'mirror': File exists
+tar: ./usr/lib/apt/methods/mirror+http: Cannot create symlink to 'mirror': File exists
+tar: ./usr/lib/apt/methods/mirror+https: Cannot create symlink to 'mirror': File exists
+tar: ./usr/lib/apt/methods/ssh: Cannot create symlink to 'rsh': File exists
+tar: ./usr/lib/apt/planners/dump: Cannot open: File exists
+tar: ./usr/lib/x86_64-linux-gnu/libapt-private.so.0.0: Cannot create symlink to 'libapt-private.so.0.0.0': File exists
+tar: Exiting with failure status due to previous errors
